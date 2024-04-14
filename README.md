@@ -1,6 +1,6 @@
 JS Compiler - Your Personal Web Compiler
 
-![JS Compiler](https://github.com/yair2000/jscompiler/assets/32851854/5ce58761-1cf8-4832-9cf3-75c67c8e5266)
+![JS Compiler](https://github.com/yair2000/jscompiler/assets/32851854/6ea48cb4-f23e-4fbb-9bd7-db557b86a09d)
 
 What's so special about JS Compiler:
 1. You can create multiple code and text cells.
