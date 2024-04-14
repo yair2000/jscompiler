@@ -1,0 +1,32 @@
+.react-resizable-handle{
+  background-color: #37414b;
+}
+
+/* .react-resizable-handle{
+  display: block;
+  background-color: #37414b;
+  background-repeat: no-repeat;
+  background-position: 51.75%;
+  background-image:
+  url(
+    'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAFAQMAAABo7865AAAABlBMVEVHcEzMzMzyAv2sAAAAAXRSTlMAQObYZgAAABBJREFUeF5jOAMEEAIEEFwAn3kMwcB6I2AAAAAASUVORK5CYII='
+  );
+} */
+
+.resize-horizontal{
+  display: flex;
+  flex-direction: row;
+  background-color: #1E1E1E;
+}
+   
+.react-resizable-handle-s{
+  height: 10px;
+}
+
+.resize-vertical .react-resizable-handle-s{
+  width: calc(100% - 48.5px);
+  position: absolute;
+  left: 25;
+  right: auto;
+  cursor: row-resize;
+}

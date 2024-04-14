@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "start": "lerna run start --parallel"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "redux": "^4.2.1"
+  },
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+}
