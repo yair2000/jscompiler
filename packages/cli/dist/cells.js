@@ -1,0 +1,1 @@
+[{"content":"","type":"text","id":"j04"},{"content":"const a = \"Welcome to JS Compiler\";","type":"code","id":"yln"}]
